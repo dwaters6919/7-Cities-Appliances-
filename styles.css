@@ -1,0 +1,14 @@
+/* styles.css */
+
+#logoImg {
+width: 100%;
+}
+
+#banner {
+background-color: #ddd;
+}
+.mainFront h3 {
+text-align: center;
+color: #eee;
+background-color: #008;
+}
