@@ -12,3 +12,40 @@ text-align: center;
 color: #eee;
 background-color: #008;
 }
+
+div.mainFront div.plain a {
+display: block;
+color: #000;
+padding: 0.4em 3em;
+width: 100%;
+/*text-align: center;*/
+}
+
+.footThird {
+margin-left: 50px;
+}
+.footThird img {
+width: 56px;
+height: 56px;
+}
+/*
+h3 {
+display: block;
+clear: right;
+float: none;
+}
+.short_h3 {
+height: 2em;
+}*/
+#repairStuffVid {
+clear: left;
+display: block;
+}
+#footer {
+padding: 1.8em 4em;
+position: fixed;
+bottom: 0;
+left: 0;
+background-color: #fff;
+width: 100%;
+}
